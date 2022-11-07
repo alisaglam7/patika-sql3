@@ -1,2 +1,2 @@
 SELECT country FROM country
-WHERE first_name LIKE 'A%a';
+WHERE country LIKE 'A%a';
